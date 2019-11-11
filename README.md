@@ -15,3 +15,4 @@
 |dog and cats|<a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blank"><img src="./img/dog and cats.PNG" width="150%" height="100%">|[기본 예제](https://github.com/kwong3528/Image-with-deep-learning/blob/master/resnet/%EB%A0%88%EC%8A%A4%EB%84%B7.ipynb)|
 
 #### 개와 고양이를 resnet으로 학습시켰다. 2258장에 대해 94프로가 넘는 정확도를 보여주었다.
+#### 32번의 학습후 3번더 학습시킨 모델을 가지고 평가를 진행하였다.
