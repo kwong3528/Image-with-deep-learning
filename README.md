@@ -12,6 +12,6 @@
 <!-- <pre><code><pre/><code/>안에 코드를 넣으면 된다 -->
 | 주제 |이미지를 누르면 데이터를 다운로드하는 곳으로 이동합니다.| 코드주소 |
 |------|-----|----------|
-|mnist|<a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blank"><img src="./img/dog and cats.PNG" width="100%" height="100%">|[기본 예제](https://github.com/kwong3528/Image-with-deep-learning/blob/master/resnet/%EB%A0%88%EC%8A%A4%EB%84%B7.ipynb)|
+|mnist|<a href="https://www.kaggle.com/c/dogs-vs-cats/data" target="_blank"><img src="./img/dog and cats.PNG" width="150%" height="100%">|[기본 예제](https://github.com/kwong3528/Image-with-deep-learning/blob/master/resnet/%EB%A0%88%EC%8A%A4%EB%84%B7.ipynb)|
 
 #### 개와 고양이를 resnet으로 학습시켰다. 2258장에 대해 94프로가 넘는 정확도를 보여주었다.
